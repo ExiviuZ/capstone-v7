@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/img/barangay-msapa-aerial.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  width: 80%;
+  text-align: justify;
+  margin: auto;
+}
+
+main {
+  width: 80%;
+  margin: auto;
+  color: white;
+}/*# sourceMappingURL=about.css.map */
